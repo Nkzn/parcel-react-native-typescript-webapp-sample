@@ -3,6 +3,12 @@
 # dependencies
 /node_modules
 
+# cache
+.cache
+
+# dist
+dist
+
 # testing
 /coverage
 
