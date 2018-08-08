@@ -1,10 +1,8 @@
 create-react-native-webapp-sample
 ==========
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
+This project was bootstrapped with [Parcel](https://parceljs.org). 
 And also, customize with [React Native for Web](https://github.com/necolas/react-native-web).
-
-The create-react-app [supports react-native-web](https://github.com/facebook/create-react-app/pull/407).
 
 Getting Started
 ----------
@@ -23,9 +21,13 @@ $ yarn build
 
 Production sources build into `/build`.
 
+<!--
+Tests don't works now.
+
 Test
 ----------
 
 ```
 $ yarn test
 ```
+-->
